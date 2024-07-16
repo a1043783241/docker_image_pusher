@@ -8,5 +8,3 @@ tomcat:jre21
 tomcat:jre21-temurin-jammy
 java:6
 java:6-jdk
-java:openjdk-8u111-jre-alpine
-java:8u111-jre-alpine
