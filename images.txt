@@ -7,4 +7,5 @@ httpd:2.4.61
 tomcat:jre21
 tomcat:jre21-temurin-jammy
 mysql:9.0.0
-java:6-jdk
+redis:7.2.5
+mongo:8.0-rc
