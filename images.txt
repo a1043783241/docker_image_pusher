@@ -9,3 +9,5 @@ tomcat:jre21-temurin-jammy
 mysql:9.0.0
 redis:7.2.5
 mongo:8.0-rc
+postgres:12.19
+golang:1.23rc1
